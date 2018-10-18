@@ -1,0 +1,13 @@
+{
+	"urls": [
+		"http://updates-http.cdn-apple.com/2018/macos/091-97112-20180828-30BB9176-A70C-11E8-82C5-5E44A9B60D77/macOSUpd10.13.6Supplemental.dmg",
+		"http://updates-http.cdn-apple.com/2018/macos/091-97102-20180723-24295EF0-7B03-11E8-AB80-B956DA3C085A/macOSUpd10.13.6Supplemental.dmg",
+		"http://updates-http.cdn-apple.com/2018/macos/091-94328-20180709-5409BA12-7C10-11E8-84CF-4F47544C24EB/macOSUpd10.13.6.dmg",
+		"http://updates-http.cdn-apple.com/2018/macos/091-94327-20180709-5409BA12-7C10-11E8-84CF-4F47544C24EB/macOSUpdCombo10.13.6.dmg",
+		"http://updates-http.cdn-apple.com/2018/macos/091-65274-94327-20180709-5409BA12-7C10-11E8-84CF-4F47544C24EB/SecUpd2018-004Sierra.dmg",
+		"http://updates-http.cdn-apple.com/2018/macos/091-63420-94327-20180709-5409BA12-7C10-11E8-84CF-4F47544C24EB/SecUpd2018-004ElCapitan.dmg",
+		"http://updates-http.cdn-apple.com/2018/macos/091-58224-20180601-E393DE12-F342-4258-9851-7B623E6D249B/SecUpd2018-003Sierra.dmg",
+		"http://updates-http.cdn-apple.com/2018/macos/091-86777-20180601-549CA903-376A-4F5E-AEB6-3253C4007FA2/macOSUpdCombo10.13.5.dmg",
+		"http://updates-http.cdn-apple.com/2018/macos/091-86780-20180601-34B219DC-3232-4AF2-8EEE-31E798250D1C/macOSUpd10.13.5.dmg"
+	]
+}
